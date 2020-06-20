@@ -1,0 +1,40 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 569
+  ClientWidth = 964
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  Menu = MainMenu1
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object ActionManager1: TActionManager
+    Left = 736
+    Top = 368
+    StyleName = 'IDE Theme Style'
+  end
+  object ImageList1: TImageList
+    Left = 568
+    Top = 368
+  end
+  object MainMenu1: TMainMenu
+    Left = 448
+    Top = 400
+    object File1: TMenuItem
+      Caption = '&File'
+      object Open1: TMenuItem
+        Caption = 'Open'
+        OnClick = Open1Click
+      end
+      object Saveas1: TMenuItem
+        Caption = 'Save as...'
+      end
+    end
+  end
+end
