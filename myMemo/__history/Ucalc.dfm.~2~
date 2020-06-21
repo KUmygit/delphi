@@ -1,0 +1,158 @@
+object myCalc: TmyCalc
+  Left = 0
+  Top = 0
+  Caption = #44228#49328#44592
+  ClientHeight = 344
+  ClientWidth = 225
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Button1: TButton
+    Left = 0
+    Top = 120
+    Width = 57
+    Height = 57
+    Caption = '7'
+    TabOrder = 0
+  end
+  object Button2: TButton
+    Left = 56
+    Top = 120
+    Width = 57
+    Height = 57
+    Caption = '8'
+    TabOrder = 1
+  end
+  object Button3: TButton
+    Left = 112
+    Top = 120
+    Width = 57
+    Height = 57
+    Caption = '9'
+    TabOrder = 2
+  end
+  object Button4: TButton
+    Left = 0
+    Top = 176
+    Width = 57
+    Height = 57
+    Caption = '4'
+    TabOrder = 3
+  end
+  object Button5: TButton
+    Left = 112
+    Top = 176
+    Width = 57
+    Height = 57
+    Caption = '6'
+    TabOrder = 4
+  end
+  object Button6: TButton
+    Left = 56
+    Top = 176
+    Width = 57
+    Height = 57
+    Caption = '5'
+    TabOrder = 5
+  end
+  object Button7: TButton
+    Left = 0
+    Top = 232
+    Width = 57
+    Height = 57
+    Caption = '1'
+    TabOrder = 6
+  end
+  object Button8: TButton
+    Left = 56
+    Top = 232
+    Width = 57
+    Height = 57
+    Caption = '2'
+    TabOrder = 7
+  end
+  object Button9: TButton
+    Left = 112
+    Top = 232
+    Width = 57
+    Height = 57
+    Caption = '3'
+    TabOrder = 8
+  end
+  object Button10: TButton
+    Left = 56
+    Top = 287
+    Width = 57
+    Height = 57
+    Caption = '0'
+    TabOrder = 9
+  end
+  object Button11: TButton
+    Left = 168
+    Top = 232
+    Width = 57
+    Height = 57
+    Caption = '+'
+    TabOrder = 10
+  end
+  object Button12: TButton
+    Left = 168
+    Top = 176
+    Width = 57
+    Height = 57
+    Caption = #12641
+    TabOrder = 11
+  end
+  object Button13: TButton
+    Left = 168
+    Top = 120
+    Width = 57
+    Height = 57
+    Caption = 'X'
+    TabOrder = 12
+  end
+  object Button14: TButton
+    Left = 168
+    Top = 287
+    Width = 57
+    Height = 57
+    Caption = '='
+    TabOrder = 13
+  end
+  object Button15: TButton
+    Left = 112
+    Top = 287
+    Width = 57
+    Height = 57
+    Caption = '.'
+    TabOrder = 14
+  end
+  object RichEdit1: TRichEdit
+    Left = 0
+    Top = 0
+    Width = 225
+    Height = 121
+    Font.Charset = HANGEUL_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -11
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+    TabOrder = 15
+    Zoom = 100
+  end
+  object Button16: TButton
+    Left = 0
+    Top = 287
+    Width = 57
+    Height = 57
+    Caption = #51648#50864#44592
+    TabOrder = 16
+  end
+end

@@ -1,9 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>1899-12-30 00:00:00.000.233,C:\Users\kyung\Desktop\myDelphi\delphi\새 폴더\Umain.pas=C:\Users\kyung\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>1899-12-30 00:00:00.000.233,C:\Users\kyung\Desktop\myDelphi\delphi\새 폴더\Umain.dfm=C:\Users\kyung\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.168,C:\Users\kyung\Desktop\myDelphi\delphi\myMemo\myProject.dproj=C:\Users\kyung\Desktop\myDelphi\delphi\myMemo\myProject.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.704,C:\Users\kyung\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\kyung\Desktop\myDelphi\delphi\새 폴더\myProject.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.377,=C:\Users\kyung\Desktop\myDelphi\delphi\myMemo\Unit2.pas</Transaction>
     <Transaction>1899-12-30 00:00:00.000.994,=C:\Users\kyung\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>1899-12-30 00:00:00.000.704,C:\Users\kyung\Desktop\myDelphi\delphi\새 폴더\myProject.dproj=C:\Users\kyung\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.233,C:\Users\kyung\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\kyung\Desktop\myDelphi\delphi\새 폴더\Umain.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.173,C:\Users\kyung\Desktop\myDelphi\delphi\myMemo\myProject.dproj=C:\Users\kyung\Desktop\myDelphi\delphi\myMemo\myProject.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.480,=C:\Users\kyung\Desktop\myDelphi\delphi\myMemo\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.779,C:\Users\kyung\Desktop\myDelphi\delphi\myMemo\Unit2.dfm=C:\Users\kyung\Desktop\myDelphi\delphi\myMemo\Usplash.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.233,C:\Users\kyung\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\kyung\Desktop\myDelphi\delphi\새 폴더\Umain.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.684,C:\Users\kyung\Desktop\myDelphi\delphi\myMemo\Ucalc.pas=C:\Users\kyung\Desktop\myDelphi\delphi\myMemo\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.571,=C:\Users\kyung\Desktop\myDelphi\delphi\myMemo\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.779,C:\Users\kyung\Desktop\myDelphi\delphi\myMemo\Unit2.pas=C:\Users\kyung\Desktop\myDelphi\delphi\myMemo\Usplash.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.684,C:\Users\kyung\Desktop\myDelphi\delphi\myMemo\Ucalc.dfm=C:\Users\kyung\Desktop\myDelphi\delphi\myMemo\Unit2.dfm</Transaction>
   </Transactions>
 </BorlandProject>
